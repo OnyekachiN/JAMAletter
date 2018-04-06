@@ -17,7 +17,7 @@ Folder contains code used for the scrapping of p-values and other criteria’s o
 
 **/upload/Figures**
 
- Folder contains figure 1a,  a boxplot illustrating the occurance of differing p-values (<0.005, <0.05,>0.05 and NA). Figure 1b, showcases a sensitivity and specificity curve for p-values <0.005 and p-values <0.05. 
+ Folder contains figure 1a,  a boxplot illustrating the occurance of differing p-values (<0.005, <0.05,>0.05 and NA) and Figure 1b,  a sensitivity and specificity curve for p-values <0.005 and p-values <0.05. 
  
 **/upload/Tables**
 
