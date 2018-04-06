@@ -1,5 +1,6 @@
 # JAMAletter
 This project set out to observe the distributions of p-values derived from top medical literatures within a certain time frame.
+Of additional interest was the observation of p-value bias and the over inflated importance of p-values.
 Data for this project was sourced from  abstracts of 3 major epidemiology journals, APE, JAMA and Lancet by means of web scrapping (using R programing language) and manuel review. Abstracts retrieved where from the period of 2000 to 2010.
 P-values, effect estimates such as hazard and odds ratio's with the addition of confidence intervals (CI) and sample size if available were retieved from the abstracts.
 Code implemented for carrying out this task was sourced and built upon from leek code (dont know real name yet) and can be found in the JAMAletter/code directory of our github page.
