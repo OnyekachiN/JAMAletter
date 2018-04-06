@@ -19,9 +19,9 @@ Folder contains code used for the scrapping of p-values and other criteria’s o
 
  Folder contains figures derived from this project. Figure 1a and 1b illustrates (get picture details from jordan).
  
-**/upload/tables**
+**/upload/Tables**
 
 Table 1 highlights (get table information from Jordan).
 
-In summary, 
+
 
