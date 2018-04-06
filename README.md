@@ -8,7 +8,7 @@ P-values, effect estimates such as hazard and odds ratios with the addition of c
 
 **/upload/Data**
 
-This folder contains raw data utilized for this project.
+Folder contains raw data utilized for this project.
 This includes two files, an edited file with our criteria’s/columns of interest and an original unedited file which has all the criteria’s.
 
 **/Code**
@@ -17,7 +17,7 @@ Folder contains code used for the scrapping of p-values and other criteria’s o
 
 **/upload/Figures**
 
- Folder contains figures derived from this project. Figure 1a illustrates a boxplot of the occurance of differing p-values (<0.005, <0.05,>0.05 and NA). Figure 1b, showcases a sensitivity and specificity curve for p-values <0.005 and p-values <0.05. 
+ Folder contains figure 1a,  a boxplot illustrating the occurance of differing p-values (<0.005, <0.05,>0.05 and NA). Figure 1b, showcases a sensitivity and specificity curve for p-values <0.005 and p-values <0.05. 
  
 **/upload/Tables**
 
