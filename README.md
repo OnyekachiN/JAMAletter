@@ -13,11 +13,11 @@ This includes two files, an edited file with our criteria’s/columns of interes
 
 **/Code**
 
-Folder contains code used for the scrapping of p-values and other criteria’s of interest. Original code depicting the extraction of p-values from abstracts was sourced from the Jager and Leek paper titled *“An estimate of the science-wise false discovery rate and application to the top medical literature"* and can be found using the link https://github.com/jtleek/swfdr/blob/master/getPvalues.R.
+Folder contains code used for the scrapping of p-values and other criteria’s of interest. Original code depicting the extraction of p-values from abstracts was sourced from the paper titled *“An estimate of the science-wise false discovery rate and application to the top medical literature"*  by Jager and Leek and can be found using the link https://github.com/jtleek/swfdr/blob/master/getPvalues.R.
 
 **/upload/Figures**
 
- Folder contains figures derived from this project. Figure 1a and 1b illustrates (get picture details from jordan).
+ Folder contains figures derived from this project. Figure 1a is an illustration of showcasing the occurance of several p-values .
  
 **/upload/Tables**
 
