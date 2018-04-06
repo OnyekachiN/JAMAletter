@@ -6,7 +6,7 @@ Data for this project was sourced from abstracts of 3 major epidemiology journal
 
 P-values, effect estimates such as hazard and odds ratios with the addition of confidence intervals (CI) and sample size if available were retrieved from the abstracts.
 
-**/upload directory**
+**/upload/Data**
 
 This folder contains raw data utilized for this project.
 This includes two files, an edited file with our criteria’s/columns of interest and an original unedited file which has all the criteria’s.
