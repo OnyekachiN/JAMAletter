@@ -7,7 +7,7 @@ P-values, effect estimates such as hazard and odds ratios with the addition of c
 This folder contains raw data utilized for this project.
 This includes two files, an edited file with our criteria’s/columns of interest and an original unedited file which has all the criteria’s.
 **/Code**
-Folder contains code used for the scrapping of p-values and other criteria’s of interest. Original code depicting the extraction of p-values from abstracts was sourced from the Jager and Leek paper titled *“An estimate of the science-wise false discovery rate and application to the top medical literature"* and can be found using this link https://github.com/jtleek/swfdr/blob/master/getPvalues.R .
+Folder contains code used for the scrapping of p-values and other criteria’s of interest. Original code depicting the extraction of p-values from abstracts was sourced from the Jager and Leek paper titled *“An estimate of the science-wise false discovery rate and application to the top medical literature"* and can be found using this link [https://github.com/jtleek/swfdr/blob/master/getPvalues.R].
 **/upload/Figures**
  Folder contains figures derived from this project. Figure 1a and 1b illustrates (get picture details from jordan).
 **/upload/tables**
